@@ -145,4 +145,4 @@ Create a dummy User run:
 ### Usage
 
 Access the application at http://localhost:3001 in your web browser.
-Sign up for a new account and start exploring MelodyVerse!
+Sign up for a new account and start exploring!
